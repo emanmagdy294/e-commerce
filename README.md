@@ -1,3 +1,4 @@
 # e-commerce
-# you can see it :
+# Project used by Bootstrao / html / css / Angular / API / TS
+# you can see it 🤔👇:
 # https://emanmagdy294.github.io/e-commerce/
